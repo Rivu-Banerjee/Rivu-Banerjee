@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there!, I'm Rivu Banerjee</h1>
 <h3 align="center">I’m a Software Developer with a strong passion for crafting innovative solutions using MERN stack. <br> My skill set also includes Data Analytics and AI/ML, where I thrive on transforming <br> complex data into meaningful & actionable insights.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivu-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="rivu-banerjee" /> </p>
