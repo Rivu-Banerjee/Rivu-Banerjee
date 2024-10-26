@@ -28,4 +28,6 @@
 
 <p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rivu-banerjee&" alt="rivu-banerjee" /></p>
 
+<br>
+
 [![An image of @rivu_banerjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rivu_banerjee)](https://holopin.io/@rivu_banerjee)
