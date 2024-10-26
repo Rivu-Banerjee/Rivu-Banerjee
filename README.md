@@ -22,10 +22,10 @@
 
 <br>
 
-<p><img align="centre" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivu-banerjee&show_icons=true&locale=en&layout=compact" alt="rivu-banerjee" /></p>
+<p><img align="centre" width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivu-banerjee&show_icons=true&locale=en&layout=compact" alt="rivu-banerjee" /></p>
 
-<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=rivu-banerjee&show_icons=true&locale=en" alt="rivu-banerjee" /></p>
+<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=rivu-banerjee&show_icons=true&locale=en" alt="rivu-banerjee" /></p>
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=rivu-banerjee&" alt="rivu-banerjee" /></p>
+<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rivu-banerjee&" alt="rivu-banerjee" /></p>
 
 [![An image of @rivu_banerjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rivu_banerjee)](https://holopin.io/@rivu_banerjee)
