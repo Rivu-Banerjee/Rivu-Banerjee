@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivu-banerjee&label=Profile%20views&color=0e75b6&style=flat" alt="rivu-banerjee" /> </p>
 
-- 🌱 I’m always eager to learn **new technologies and improve my skills. <br> Currently exploring the latest trends in ML, AI and Data Science.**
+- 🌱 I’m always eager to learn **new technologies and improve my skills. <br> Currently exploring the latest trends in AI/ML and Data Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
