@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=rivu-banerjee&show_icons=true&locale=en" alt="rivu-banerjee" /></p>
 
-<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=rivu-banerjee&" alt="rivu-banerjee" /></p>
+
 
 <br>
 
