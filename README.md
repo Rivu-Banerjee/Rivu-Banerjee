@@ -26,7 +26,7 @@
 
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=rivu-banerjee&show_icons=true&hide=stars,issues&cache_seconds=86400&theme=gruvbox" alt="rivu-banerjee" /></p>
 
-<a href="https://git.io/streak-stats"><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=rivu-banerjee&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com?user=rivu-banerjee&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_width=450&card_height=200" alt="GitHub Streak" /></a>
 
 <br>
 
