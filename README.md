@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there!, I'm Rivu Banerjee</h1>
+<h1 align="center">👋🏻 Hi there!, I'm Rivu Banerjee</h1>
 <h3 align="center">I’m a Software Developer with a strong passion for crafting innovative solutions using MERN stack. <br> My skill set also includes Data Analytics and AI/ML, where I thrive on transforming <br> complex data into meaningful & actionable insights.</h3>
 
 <img align="right" alt="coding" width="370" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -26,9 +26,7 @@
 
 <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rivu-banerjee&show_icons=true&hide=stars,issues&cache_seconds=86400&theme=gruvbox" alt="rivu-banerjee" /></p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=rivu-banerjee&cache_seconds=86400&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</p>
+
 
 <br>
 
