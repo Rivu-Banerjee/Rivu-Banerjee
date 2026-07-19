@@ -1,7 +1,6 @@
 <h1 align="center">👋🏻 Hi there!, I'm Rivu Banerjee</h1>
-<h3 align="center">Building scalable web applications and sharpening problem-solving skills through 600+ DSA challenges. Skilled in C++, Python, SQL, and MERN Stack. Interested in Machine Learning, LLMs, and creating software that delivers real-world impact.
-
-.</h3>
+<h3 align="center">Building scalable web applications and sharpening problem-solving skills through 600+ DSA challenges. <br> Skilled in C++, Python, SQL, and MERN Stack. Interested in Machine Learning, LLMs. <br> Creating software that delivers real-world impact.
+</h3>
 
 <br>
 
