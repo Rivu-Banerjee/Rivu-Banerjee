@@ -1,5 +1,6 @@
 <h1 align="center">👋🏻 Hi there!, I'm Rivu Banerjee</h1>
-<h3 align="center">Aspiring Software Development Engineer passionate about building scalable applications with C++, Python, JavaScript, and the MERN stack. Solved 600+ DSA problems on LeetCode and GeeksforGeeks. Exploring Machine Learning and Large Language Models while continuously learning and building impactful software.
+<h3 align="center">Building scalable web applications and sharpening problem-solving skills through 600+ DSA challenges. Skilled in C++, Python, SQL, and MERN Stack. Interested in Machine Learning, LLMs, and creating software that delivers real-world impact.
+
 .</h3>
 
 <br>
@@ -81,9 +82,9 @@
 </p>
 
 <br>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abc" alt="abc" /></a> </p>
-
+-->
 <br>
 
 [![An image of @rivu_banerjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rivu_banerjee)](https://holopin.io/@rivu_banerjee)
