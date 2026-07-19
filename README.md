@@ -1,5 +1,6 @@
 <h1 align="center">👋🏻 Hi there!, I'm Rivu Banerjee</h1>
-<h3 align="center">I’m a Software Developer with a strong passion for crafting innovative solutions using MERN stack. <br> My skill set also includes Data Analytics and AI/ML, where I thrive on transforming <br> complex data into meaningful & actionable insights.</h3>
+<h3 align="center">Aspiring Software Development Engineer passionate about building scalable applications with C++, Python, JavaScript, and the MERN stack. Solved 600+ DSA problems on LeetCode and GeeksforGeeks. Exploring Machine Learning and Large Language Models while continuously learning and building impactful software.
+.</h3>
 
 <br>
 
